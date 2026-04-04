@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+    "video_url": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
     "description": "A classic animation about a big bunny in the forest.",
     "user": {
       "id": "101",
@@ -14,7 +14,7 @@
   },
   {
     "id": "2",
-    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "video_url": "https://samplelib.com/lib/preview/mp4/sample-5s.mp4",
     "description": "Dive into the surreal story of the Elephants Dream.",
     "user": {
       "id": "102",
@@ -27,7 +27,7 @@
   },
   {
     "id": "3",
-    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "video_url": "https://samplelib.com/lib/preview/mp4/sample-10s.mp4",
     "description": "An intense chase scene with blazing action.",
     "user": {
       "id": "103",
@@ -40,7 +40,7 @@
   },
   {
     "id": "4",
-    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "video_url": "https://samplelib.com/lib/preview/mp4/sample-15s.mp4",
     "description": "Thrilling escapes from danger, edge of your seat stuff!",
     "user": {
       "id": "104",
@@ -53,7 +53,7 @@
   },
   {
     "id": "5",
-    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "video_url": "https://www.w3schools.com/html/mov_bbb.mp4",
     "description": "Fun moments captured perfectly for your entertainment.",
     "user": {
       "id": "105",
