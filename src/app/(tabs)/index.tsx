@@ -1,10 +1,13 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
+import PostListItem from '@/components/PostListItem'
+
+
 
 export default function HomeScreen() {
   return (
     <View>
-      <Text>HomeScreen</Text>
+      <PostListItem />
     </View>
   )
 }

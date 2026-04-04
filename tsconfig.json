@@ -1,8 +1,9 @@
 {
   "extends": "expo/tsconfig.base",
   "compilerOptions": {
+    "esModuleInterop": true,
     "strict": true,
-     "path" : {
+     "paths" : {
       "@/*" : ["./src/*"],
       "@assets/*" : ["./assets/*"]
      }

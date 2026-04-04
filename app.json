@@ -2,10 +2,10 @@
   "expo": {
     "name": "tiktokCloning",
     "slug": "tiktokCloning",
-     "scheme": "your-app-scheme",
-  "experiments": {
-    "typedRoutes": true
-  },
+    "scheme": "your-app-scheme",
+    "experiments": {
+      "typedRoutes": true
+    },
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -31,7 +31,8 @@
       "favicon": "./assets/favicon.png"
     },
     "plugins": [
-      "expo-router"
+      "expo-router",
+      "expo-video"
     ]
   }
 }
