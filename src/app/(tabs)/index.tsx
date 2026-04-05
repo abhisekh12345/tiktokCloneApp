@@ -15,7 +15,7 @@ export default function HomeScreen() {
      }
   })
 
-  console.log(currentIndex)
+  // console.log(currentIndex)
 
   return (
     <View>
